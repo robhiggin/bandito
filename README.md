@@ -4,6 +4,6 @@ There is little of interest here. This is my attempt to learn Slim Framework and
 
 ## Looking for Slim Framework?
 
-This isn't it. http://slimframework.com
+This isn't it... but this is http://slimframework.com
 
 Happy Coding
