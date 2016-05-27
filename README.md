@@ -6,4 +6,4 @@ There is little of interest here. This is my attempt to learn Slim Framework and
 
 This isn't it... but this is http://slimframework.com
 
-Happy Coding
+Happy Coding!
